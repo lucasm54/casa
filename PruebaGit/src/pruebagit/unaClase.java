@@ -15,3 +15,6 @@ public class unaClase {
        System.out.println("Hola");
        System..out.println("mundo");
 }
+   public void unRadio() {
+      System.out.println("Circulo");
+   }
