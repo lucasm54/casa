@@ -10,6 +10,8 @@ package pruebagit;
  * @author programador
  */
 public class unaClase {
-   public void unMetodo{
+   
+    public void unMetodo(){
        System.out.println("Hola");
+       System..out.println("mundo");
 }
